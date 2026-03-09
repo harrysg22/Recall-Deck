@@ -1,0 +1,209 @@
+{
+  "" : {
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsApp-primary.dia",
+    "emit-module-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsApp-primary-emit-module.dia",
+    "pch" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsApp-primary.swiftdeps"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/CardsAppApp.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CardsAppApp~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Models/Card.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Card~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Models/Deck.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/Deck~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Models/LeitnerEngine.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LeitnerEngine~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/AddEditCardView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditCardView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/AddEditDeckView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/AddEditDeckView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/CSVImportView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CSVImportView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/DeckDetailView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckDetailView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/DeckListView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/DeckListView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/CreatePairGameView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/CreatePairGameView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/GameTypes.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GameTypes~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/RecallWordGameView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/RecallWordGameView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/ReviewWordGameView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewWordGameView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/SelectTranslationGameView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SelectTranslationGameView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/Games/TypeWordGameView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/TypeWordGameView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/LearnModeView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/LearnModeView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/ReviewModeView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ReviewModeView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/SettingsView.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/SettingsView~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/CardsApp/Views/ShareSheet.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/ShareSheet~partial.swiftmodule"
+  },
+  "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/harrysg22/Documents/Projects /CardsApp/build/Build/Intermediates.noindex/CardsApp.build/Debug-iphoneos/CardsApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
