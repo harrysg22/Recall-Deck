@@ -15,6 +15,7 @@ struct AddEditDeckView: View {
     @State private var name = ""
     @State private var sourceLang = "zh"
     @State private var targetLang = "es"
+    @State private var showingSwapConfirm = false
 
     private let languageCodes = ["zh", "en", "es", "fr", "de", "it", "pt", "ja", "ko", "ru", "ar"]
 
@@ -59,6 +60,18 @@ struct AddEditDeckView: View {
                     }
                     .pickerStyle(.menu)
                 }
+                if existingDeck != nil {
+                    Section {
+                        Button {
+                            showingSwapConfirm = true
+                        } label: {
+                            Label("Intercambiar origen y destino", systemImage: "arrow.left.arrow.right")
+                        }
+                        .foregroundStyle(.primary)
+                    } footer: {
+                        Text("Se intercambiarán también la palabra y la traducción en todas las cartas del mazo. La transcripción (p. ej. pinyin) se borrará.")
+                    }
+                }
             }
             .navigationTitle(existingDeck == nil ? "Nuevo mazo" : "Editar mazo")
             .navigationBarTitleDisplayMode(.inline)
@@ -78,6 +91,25 @@ struct AddEditDeckView: View {
                     targetLang = deck.targetLang
                 }
             }
+            .alert("Intercambiar idiomas", isPresented: $showingSwapConfirm) {
+                Button("Cancelar", role: .cancel) {}
+                Button("Intercambiar", role: .destructive) { performSwap() }
+            } message: {
+                Text("Origen y destino se intercambiarán. En todas las cartas, la palabra pasará a ser la traducción y la traducción pasará a ser la palabra. La transcripción se borrará. Guarda el mazo para aplicar los cambios.")
+            }
+        }
+    }
+
+    private func performSwap() {
+        swap(&sourceLang, &targetLang)
+        guard let deck = existingDeck else { return }
+        let cards = (deck.cards as? [Card]) ?? []
+        for card in cards {
+            let oldWord = card.word
+            let oldTranslation = card.translation
+            card.word = oldTranslation
+            card.translation = oldWord
+            card.transcription = ""
         }
     }
 

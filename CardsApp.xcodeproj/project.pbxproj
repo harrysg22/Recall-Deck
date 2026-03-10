@@ -30,6 +30,7 @@
 		A1000021 /* TTSService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000021 /* TTSService.swift */; };
 		A1000022 /* YandexDictionaryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000022 /* YandexDictionaryService.swift */; };
 		A1000023 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000023 /* NotificationService.swift */; };
+		A1000024 /* FlashcardBrowseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2000024 /* FlashcardBrowseView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		A2000021 /* TTSService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TTSService.swift; sourceTree = "<group>"; };
 		A2000022 /* YandexDictionaryService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YandexDictionaryService.swift; sourceTree = "<group>"; };
 		A2000023 /* NotificationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationService.swift; sourceTree = "<group>"; };
+		A2000024 /* FlashcardBrowseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlashcardBrowseView.swift; sourceTree = "<group>"; };
 		A3000001 /* CardsApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CardsApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -120,6 +122,7 @@
 				A2000011 /* SettingsView.swift */,
 				A2000012 /* CSVImportView.swift */,
 				A2000013 /* ShareSheet.swift */,
+				A2000024 /* FlashcardBrowseView.swift */,
 				A5000006 /* Games */,
 			);
 			path = Views;
@@ -240,6 +243,7 @@
 				A1000021 /* TTSService.swift in Sources */,
 				A1000022 /* YandexDictionaryService.swift in Sources */,
 				A1000023 /* NotificationService.swift in Sources */,
+				A1000024 /* FlashcardBrowseView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -61,6 +61,13 @@ struct DeckDetailView: View {
                     Label("Revisar aprendidas", systemImage: "checkmark.circle.fill")
                 }
                 .disabled(learnedCards.isEmpty)
+
+                NavigationLink {
+                    FlashcardBrowseView(deck: deck)
+                } label: {
+                    Label("Ver todas las cartas", systemImage: "rectangle.stack.fill")
+                }
+                .disabled(deckCards.isEmpty)
             }
 
             Section("Resumen") {

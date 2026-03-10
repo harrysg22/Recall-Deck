@@ -55,11 +55,8 @@ struct CSVImportView: View {
     private func importCSV(from url: URL) {
         errorMessage = nil
         importedCount = 0
-        guard url.startAccessingSecurityScopedResource() else {
-            errorMessage = "No se pudo acceder al archivo"
-            return
-        }
-        defer { url.stopAccessingSecurityScopedResource() }
+        let needsStop = url.startAccessingSecurityScopedResource()
+        defer { if needsStop { url.stopAccessingSecurityScopedResource() } }
         do {
             let data = try Data(contentsOf: url)
             guard let str = String(data: data, encoding: .utf8) ?? String(data: data, encoding: .isoLatin1) else {
